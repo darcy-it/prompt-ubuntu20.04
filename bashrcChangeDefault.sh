@@ -6,4 +6,10 @@
 
 cp -p ./bashrc/bashrc.org.default ~/.bashrc
 
-exec bash
+
+exec $SHELL -l
+# exec bash
+# sh ~/.bashrc
+# echo `. ~/.bashrc` # NG
+# echo ". ~/.bashrc" # NG
+# source ~/.bashrc #NG
