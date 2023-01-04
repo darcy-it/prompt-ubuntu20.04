@@ -2,6 +2,6 @@
 prompt-settings
 
 # GitHub URL
-git config -l
-
-https://github.com/darcy-it/ubuntu20.04-prompt.git
+* git config -l
+* https://github.com/darcy-it/ubuntu20.04-prompt.git
+* https://github.com/darcy-it?tab=repositories
