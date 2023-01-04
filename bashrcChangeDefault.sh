@@ -4,6 +4,6 @@
 
 #cp -p bashrc-non-host ~/.bashrc
 
-cp -p bashrc.bk.org ~/.bashrc
+cp -p ./bashrc/bashrc.org.default ~/.bashrc
 
 exec bash

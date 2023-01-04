@@ -2,6 +2,6 @@
 #
 #echo "$user@hostname:~$"
 
-cp -p bashrc-non-host.curdirOnly ~/.bashrc
+cp -p ./bashrc/bashrc-non-host.curdirOnly ~/.bashrc
 
 exec bash
