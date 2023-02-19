@@ -1,0 +1,5 @@
+#
+# deleteHostName.sh
+#
+
+# backup bashrc
