@@ -10,3 +10,7 @@ prompt-settings
 - user@:~$
 - user@hostname:~$
 - user@hostname:dir$
+
+# using
+- after
+-
