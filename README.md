@@ -3,8 +3,8 @@ prompt-settings
 
 # GitHub URL
 * git config -l
-* https://github.com/darcy-it/ubuntu20.04-prompt.git
-* https://github.com/darcy-it?tab=repositories
+* https://github.com/darcy-it/prompt-ubuntu20.04.git
+
 
 # prompt result
 - user@:~$
